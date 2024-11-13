@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there Priyadarshini here !!👋
+Am a CS student
 
 <!--
 **Priya-Darshini-R/Priya-Darshini-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
