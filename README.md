@@ -1,6 +1,6 @@
 ## Hi there Priyadarshini here !!👋
-Am a CS student
-
+Am a CS student.
+Currently pursuing my B.Tech degree in SRM institute of Science and Technology.
 <!--
 **Priya-Darshini-R/Priya-Darshini-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
